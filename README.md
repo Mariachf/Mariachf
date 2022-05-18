@@ -1,15 +1,16 @@
-👋Oi, eu sou Maria Eduarda
+## Olá, me chamo Maria Eduarda!!
+### Seja bem vindos ao meu perfil GitHub 👋
 
-👀Estou interessado em aprender o código e entrar para o marcado da Tecnologia
+- 🖥 Atualmente trabalho com PC gamer Montagem e venda
+- 🌱 Estou entrendo no mundo DEV agora então sou bem Iniciante
+- 🤔 Estou procurando ajuda com tudo no momento, então quem poder dar dicas ou apoio vou ficar muito feliz
+- 📫 Como entrar em contato comigo: whats - (11)961942832 ou email - me72068@gmail.com 
+- 🙂 curiosidade sobre mim: Sou formada em Gestão de Recursos Humanos 
 
-🌱atualmente estou atualizando Python, Java, CSS e HTML e Desenvolvimento da web
-
-💞️Procure colaborar em tudo e com todos
-
-📫Pode me ajudar dando dicas ou conselhos, até mesmo estudos diferentes no meu e-mail: me72068@gmail.com.
-<!---
-
-
-Mariachf/Mariachf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<a href="https://github.com/Mariachf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+ 

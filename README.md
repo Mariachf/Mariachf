@@ -2,10 +2,7 @@
 ### Seja bem vindos ao meu perfil GitHub 👋
 
 - 🖥 Atualmente trabalho com PC gamer Montagem e venda
-- 🌱 Estou entrendo no mundo DEV agora então sou bem Iniciante
-- 🤔 Estou procurando ajuda com tudo no momento, então quem poder dar dicas ou apoio vou ficar muito feliz
-- 📫 Como entrar em contato comigo: whats - (11) 96194-2832 ou email - me72068@gmail.com 
-- 🙂 curiosidade sobre mim: sou formada em getão de recursos Humanos 
+- 🖥 Iniciando agora no mundo DEV - com foco em FROND-END
 
 <div align="center">
   <a href="https://github.com/Mariachf">

@@ -1,8 +1,8 @@
 ## Olá, me chamo Maria Eduarda!!
 ### Seja bem vindos ao meu perfil GitHub 👋
 
-- 🖥 Atualmente trabalho com PC gamer Montagem e venda
-- 🖥 Iniciando agora no mundo DEV - com foco em FROND-END
+- 🖥 Atualmente estudante para me tornar uma desenvolvedora Front - end
+- 🖥 Iniciando agora no mundo DEV 
 
 <div align="center">
   <a href="https://github.com/Mariachf">

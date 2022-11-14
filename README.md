@@ -1,7 +1,7 @@
 ## Olá, me chamo Maria Eduarda!!
 ### Seja bem vindos ao meu perfil GitHub 👋
 
-- 🖥 Atualmente estudante para me tornar uma desenvolvedora Front - end
+- 🖥 Atualmente estudando para me tornar uma desenvolvedora Front - end
 - 🖥 Iniciando agora no mundo DEV 
 
 <div align="center">

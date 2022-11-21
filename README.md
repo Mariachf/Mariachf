@@ -1,11 +1,10 @@
-# Olá, Meu nome é Maria Eduarda!!
-### Seja bem vindos ao meu perfil GitHub 👋
+<div>
+  <h1> Olá, Meu nome é Maria Eduarda!!</h1>
+  <h2> Seja bem vindos ao meu perfil GitHub 😉</h2>
+</div>
 
-<h2> -- ⚠️ Sou uma profissional em construção na área da tecnologia da informação. Atualmente
-estudante para me tornar uma desenvolvedora Front-end  </h2>  
-  
+##
  
-
 <div align="center">
   <a href="https://github.com/Mariachf">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Mariachf&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
@@ -32,8 +31,7 @@ estudante para me tornar uma desenvolvedora Front-end  </h2>
   <a href = "mailto:me72068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-fonseca-109862173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://web.telegram.org/?legacy=1#/im" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-    
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
    </div>
   
   

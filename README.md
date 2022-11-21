@@ -10,11 +10,20 @@ estudante para me tornar uma desenvolvedora Front-end  </h2>
   <a href="https://github.com/Mariachf">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Mariachf&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariachf&layout=compact&langs_count=7&theme=bear"/>
- 
 </div>
+  
   
   ##
   
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </div>
+ 
+  
+ ##
+
    
   
   <div>
@@ -23,9 +32,11 @@ estudante para me tornar uma desenvolvedora Front-end  </h2>
   <a href = "mailto:me72068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-fonseca-109862173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://web.telegram.org/?legacy=1#/im" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-    -------------------
+    
    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
    </div>
+  
+  
   
  ![Snake animation](https://github.com/Mariachf/Mariachf/blob/output/github-contribution-grid-snake.svg)
   

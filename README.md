@@ -1,6 +1,6 @@
 <div>
   <h1> Olá, Meu nome é Maria Eduarda!!</h1>
-  <h2> Seja bem vindos ao meu perfil GitHub 😉</h2>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
 ##
@@ -31,7 +31,7 @@
   <a href = "mailto:me72068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-fonseca-109862173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://web.telegram.org/?legacy=1#/im" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+    
    </div>
   
   

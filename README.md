@@ -36,6 +36,6 @@
   
   
   
- ![Snake animation](https://github.com/Mariachf/Mariachf/blob/output/github-contribution-grid-snake.svg)
+ ![](https://raw.githubusercontent.com/Mariachf/Mariachf/output/github-contribution-grid-snake.svg)
   
   

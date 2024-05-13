@@ -16,7 +16,7 @@
 
   <div>
    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Mariachf&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+   <a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Mariachf&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)</a>
   </div>
   
   <div>

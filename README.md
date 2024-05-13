@@ -1,8 +1,7 @@
 <div>
-  <h1> Olá, Meu nome é Maria Eduarda!!</h1>
- <img src="https://storyset.com/illustration/designer-girl/bro#427369FF&hide=&hide=complete">
+ ![Texto Alternativo](https://storyset.com/illustration/designer-girl/bro#427369FF&hide=&hide=complete)
 </div>
-<a href="https://storyset.com/work">Work illustrations by Storyset</a>
+
 ##
  
 <div align="center">

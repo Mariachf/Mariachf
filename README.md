@@ -2,7 +2,7 @@
   <h1> Olá, Meu nome é Maria Eduarda!!</h1>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/592966c0bfb749b7a10ee960267d5275.gif" width="150" height="150" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
-
+<a href="https://storyset.com/work">Work illustrations by Storyset</a>
 ##
  
 <div align="center">
@@ -13,7 +13,7 @@
 
 </div>
   
-  <a [![GitHub Streak](https://streak-stats.demolab.com/MariachfDenverCoder1)](https://git.io/streak-stats) />
+ [![GitHub Streak](https://streak-stats.demolab.com/MariachfDenverCoder1)](https://git.io/streak-stats)
   ##
 
 

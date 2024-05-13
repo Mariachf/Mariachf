@@ -14,7 +14,7 @@
   
   ##
 
-[![GitHub Streak](https://streak-stats.demolab.com/MariachfDenverCoder1)](https://git.io/streak-stats)
+<a> [![GitHub Streak](https://streak-stats.demolab.com/MariachfDenverCoder1)](https://git.io/streak-stats) </a>
 
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

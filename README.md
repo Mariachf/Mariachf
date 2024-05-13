@@ -1,6 +1,4 @@
-<div>
- ![Texto Alternativo](https://storyset.com/illustration/designer-girl/bro#427369FF&hide=&hide=complete)
-</div>
+<img src="https://storyset.com/illustration/designer-girl/bro#427369FF&hide=&hide=complete"/>
 
 ##
  

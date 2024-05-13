@@ -13,6 +13,10 @@
   
   
   ##
+
+  <div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+  </div>
   
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

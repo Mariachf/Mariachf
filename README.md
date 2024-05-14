@@ -5,4 +5,6 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mariachf&theme=vue-dark&hide_border=verdadeiro&locale=pt_BR&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mariachf&theme=vue-dark&hide_border=true&border_radius=10&card_width=1000)](https://git.io/streak-stats)
+
+<br>

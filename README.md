@@ -33,5 +33,4 @@
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mariachf&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAA80&section=footer">

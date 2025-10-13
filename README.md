@@ -5,7 +5,6 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mariachf&theme=vue-dark&hide_border=true&border_radius=10&card_width=1000)](https://git.io/streak-stats)
 
 <h1 align="center">💻 My Tech Stack</h1>
 
@@ -31,6 +30,3 @@
 </div>
 
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mariachf&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAA80&section=footer">
